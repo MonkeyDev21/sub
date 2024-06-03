@@ -60,9 +60,9 @@ proxy-groups:
   - name: DnDev
     type: select
     proxies:
+      - BEST-PING
       - E=MC2 Trojan Tcp Tls Hyper NetWork™️-HyperNetTrojanTls
       - E=MC2 Vmess WebSocket Hyper NetWork™️-HyperNetVmessTcp
-      - BEST-PING
   - name: BEST-PING
     type: url-test
     url: http://cp.cloudflare.com/
