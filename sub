@@ -33,7 +33,7 @@ dns:
     - 112.215.203.254
 proxies:
   - name: E=MC2 Trojan Tcp Tls Hyper NetWork™️-HyperNetTrojanTls
-    server: nghivnvps.nguyendinhnghi.id.vn
+    server: nghi.nguyendinhnghi.id.vn
     port: 443
     type: trojan
     password: FEHydQaWQs
@@ -41,7 +41,7 @@ proxies:
     sni: dl.kgvn.garenanow.com
     udp: true
   - name: E=MC2 Vmess WebSocket Hyper NetWork™️-HyperNetVmessTcp
-    server: nghivnvps.nguyendinhnghi.id.vn
+    server: nghi.nguyendinhnghi.id.vn
     port: 80
     type: vmess
     uuid: 80b84827-764d-4a3c-83a0-7621a45fef48
